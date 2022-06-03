@@ -1,0 +1,7 @@
+.place__margins {
+  margin: 0 0 16px;
+}
+
+.place__margins:last-of-type {
+  margin: 0;
+}
