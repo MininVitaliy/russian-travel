@@ -1,0 +1,6 @@
+.list__two::after {
+  content: " 12";
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+}
