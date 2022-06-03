@@ -30,3 +30,7 @@
 @import url(./blocks/list/__three/list__three.css);
 @import url(./blocks/list/__four/list__four.css);
 @import url(./blocks/list/__five/list__five.css);
+
+/*photo-grid*/
+@import url(./blocks/photo-grid/photo-grid.css);
+@import url(./blocks/photo-grid/__item/photo-grid__item.css);
