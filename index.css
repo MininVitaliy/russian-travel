@@ -49,3 +49,10 @@
 @import url(./blocks/place/__margins/place__margins.css);
 
 @import url(./blocks/place/__image/place__image.css);
+
+/*cover*/
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__link/cover__link.css);
+@import url(./blocks/cover/__background/cover__background.css);
+@import url(./blocks/cover/__title/cover__title.css);
+@import url(./blocks/cover/__subtitle/cover__subtitle.css);
