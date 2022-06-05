@@ -4,8 +4,8 @@
   flex-direction: column;
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: contain;
   min-height: 740px;
-  background-size: cover;
   color: #FFFFFF;
   align-items: center;
   justify-content: center;
@@ -29,4 +29,10 @@
 
 .cover__background:hover::before {
   opacity: .8;
+}
+
+@media screen and (max-width: 1140px) {
+  .cover__background {
+    min-height: 640px;
+  }
 }

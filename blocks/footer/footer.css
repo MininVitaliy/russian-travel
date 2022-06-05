@@ -1,7 +1,7 @@
 .footer {
   display: flex;
   flex-direction: row;
-  padding: 0 48px 23px;
+  padding: 0 48px 24px;
   background-color:#2A2C2F;
   color: #FFFFFF;
   justify-content: space-between;

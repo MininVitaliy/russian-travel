@@ -1,6 +1,12 @@
 .lead {
-  padding: 0 148px 92px 148px;
+  padding: 0 148px 92px;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /*подумать*/
+  /*min-height: 100vh; /*подумать*/
+}
+
+@media screen and (max-width: 1140px) {
+  .lead {
+    padding: 0 48px 92px;
+  }
 }

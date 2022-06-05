@@ -2,3 +2,9 @@
    color: #FFFFFF;
    padding: 0 48px 92px;
 }
+
+@media screen and (max-width: 1140px) {
+   .cover {
+     padding: 0 0 92px;
+   }
+ }
