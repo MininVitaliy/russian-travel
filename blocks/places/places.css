@@ -7,3 +7,9 @@
     padding: 0 48px 92px;
   }
 }
+
+@media screen and (max-width: 984px) {
+  .places {
+    padding: 0 24px 90px;
+  }
+}

@@ -6,3 +6,9 @@
   color: #AAAAAA;
   margin: 0 auto 12px 0;
 }
+
+@media screen and (max-width: 984px) {
+  .place__url-heading {
+    line-height: 12px;
+  }
+}
