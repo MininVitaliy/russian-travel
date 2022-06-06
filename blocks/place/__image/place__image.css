@@ -5,3 +5,10 @@
   grid-column: 1 / 2;
   grid-row: 2 / 3;
 }
+
+@media screen and (max-width: 650px) {
+  .place__image {
+    grid-row: 3 / 4;
+    grid-column: 1 / 2 ;
+  }
+}

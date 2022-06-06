@@ -3,3 +3,11 @@
   grid-row: 1 / 2;
   align-self: flex-end;
 }
+
+@media screen and (max-width: 650px) {
+  .place__website {
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+    padding: 0 16px;
+  }
+}

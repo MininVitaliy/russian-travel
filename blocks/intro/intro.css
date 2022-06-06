@@ -18,3 +18,10 @@
     max-width: calc(100% - 48px);
   }
 }
+
+@media screen and (max-width: 568px) {
+  .intro {
+    padding: 0 16px 64px;
+    max-width: calc(100% - 32px);
+  }
+}

@@ -10,3 +10,11 @@
     font-size: 16px;
   }
 }
+
+@media screen and (max-width: 650px) {
+  .place__paragraph {
+    grid-row: 4 / 5;
+    grid-column: 1 / 2;
+    padding: 0 16px;
+  }
+}

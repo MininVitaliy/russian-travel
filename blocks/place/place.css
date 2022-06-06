@@ -27,3 +27,12 @@
     margin-bottom: 73px;
   }
 }
+
+@media screen and (max-width: 650px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, minmax(0, max-content));
+    grid-row-gap: 32px;
+    margin-bottom: 50px;
+  }
+}
