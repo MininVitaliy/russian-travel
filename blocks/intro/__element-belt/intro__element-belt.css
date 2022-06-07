@@ -1,5 +1,5 @@
-.list__three::after {
-  content: " 16";
+.intro__element-belt::after {
+  content: " 11";
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;
