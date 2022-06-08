@@ -1,5 +1,4 @@
-.intro__element-belt::after {
-  content: " 11";
+.intro__element {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;

@@ -1,7 +1,6 @@
 .footer {
   display: flex;
   flex-direction: row;
-  background-color:#2A2C2F;
   color: #FFFFFF;
   justify-content: space-between;
 }

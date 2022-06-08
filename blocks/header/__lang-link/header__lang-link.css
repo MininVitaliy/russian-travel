@@ -3,16 +3,10 @@
     line-height: 28px;
     color: #FFFFFF;
     font-weight: 400;
-    margin-right: 18px;
 }
 
 .header__lang-link:hover {
   opacity: .8;
-}
-
-
-.header__lang-link:last-of-type {
-    margin-right: 0;
 }
 
 @media screen and (max-width: 568px) {
