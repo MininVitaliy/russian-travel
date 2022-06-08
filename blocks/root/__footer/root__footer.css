@@ -1,15 +1,15 @@
-.footer__styles {
+.root__footer {
   padding: 0 48px 24px;
 }
 
 @media screen and (max-width: 984px) {
-  .footer__styles  {
+  .root__footer  {
     padding: 0 24px 24px;
   }
 }
   
 @media screen and (max-width: 730px) {
-  .footer__styles  {
+  .root__footer  {
     padding: 0 16px 24px;
   }
 }
