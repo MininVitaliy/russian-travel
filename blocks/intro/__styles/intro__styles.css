@@ -1,22 +1,22 @@
-.styles__intro {
+.intro__styles {
   margin: 0 auto 92px 148px;
 }
 
 @media screen and (max-width: 1140px) {
-  .styles__intro {
+  .intro__styles {
     margin: 0 auto 92px 48px;
   }
 }
   
 @media screen and (max-width: 984px) {
-  .styles__intro {
+  .intro__styles {
     padding: 0 24px 88px;
     margin: 0;
   }
 }
   
 @media screen and (max-width: 568px) {
-  .styles__intro {
+  .intro__styles {
     padding: 0 16px 64px;
   }
 }
